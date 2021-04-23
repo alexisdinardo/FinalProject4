@@ -19,3 +19,5 @@ This dataset lists all of the Pittsburgh facilities and categorizes what type th
 ### Abstract:
 
 Our group measured the best neighborhood in Pittsburgh by finding out which neighborhoods had the most facilities in each dataset. That is, we looked at which neighborhoods had the most playgrounds, pools, and facilities. The number of facilities each neighborhood has is our metric to measure which is best. This shows which neighborhood is 'best' because it highlights which one has access to more amenities. 
+
+In the end, we found that Squirrel Hill South had the most facilities, with 38 in total. Therefore, Squirrel Hill South was found to be the best neighborhood.
